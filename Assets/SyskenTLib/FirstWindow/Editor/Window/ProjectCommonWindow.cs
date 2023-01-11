@@ -59,12 +59,12 @@ namespace SyskenTLib.FirstWindowsEditor.Window
 
         private void TouchedInit1Button()
         {
-
+            this.Close();
         }
 
         private void TouchedInit2Button()
         {
-
+            this.Close();
         }
         
         
