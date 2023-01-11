@@ -59,11 +59,21 @@ namespace SyskenTLib.FirstWindowsEditor.Window
 
         private void TouchedInit1Button()
         {
+            //
+            // MEMO: ここに初期化処理を書いてください
+            //
+            
+            
             this.Close();
         }
 
         private void TouchedInit2Button()
         {
+            //
+            // MEMO: ここに初期化処理を書いてください
+            //
+            
+            
             this.Close();
         }
         
